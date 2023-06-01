@@ -1,6 +1,6 @@
-<h1>Working from Lisbon, Portugal</h1>
+<h2>Working from Lisbon, Portugal</h2>
 
-<h1>Currently developing software to let entrepreneurs create and manage their own business in a frictionless way.</h1>
+<h3>Currently developing software to let entrepreneurs create and manage their own business in a frictionless way.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
