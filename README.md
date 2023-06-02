@@ -1,6 +1,6 @@
 <h2>Working from Lisbon, Portugal</h2>
 
-<h3>Currently developing software to let entrepreneurs create and manage their own business in a frictionless way.</h3>
+<h3>Currently developing software to let entrepreneurs create and manage their own business in a frictionless way. Powered by blockchain.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
